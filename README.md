@@ -12,8 +12,8 @@ A Pi Pico powered nixie tube board that uses 4 IN-14 nixie tubes.
 # Photos
 Front
 
-![front](https://github.com/SonOfCheevap/PierogiNixie-4/assets/108093325/a96c8896-c48f-442a-99ab-eb7b46010a64)
+![front](https://github.com/SonOfCheevap/PierogiNixie-4/assets/108093325/9d27c44a-a375-411e-b7b0-e8b84bdb8c8b)
 
 Back
 
-![back](https://github.com/SonOfCheevap/PierogiNixie-4/assets/108093325/d02767ca-90b6-456c-a6ed-db187b87168f)
+![back](https://github.com/SonOfCheevap/PierogiNixie-4/assets/108093325/a0b90b30-16df-4a76-b477-e5df508a9191)
